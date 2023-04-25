@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.mainDivision {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+  padding: 10px;
+  font-weight: bold;
+}
+.paragraph {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+  padding: 5px;
+}
+.btnprimary {
+  height: 25px;
+  weight: 40px;
+  background-color: #007bff;
+  color: white;
+}
+.number {
+  color: #c20a72;
+}
